@@ -1,0 +1,9 @@
+COUCOU
+
+Ceci est un fichier de test, on met n'importe quoi dedans.
+
+Alors codons n'importe quoi (yeepee) :
+
+while (1) {
+	print('NOPE');
+}
